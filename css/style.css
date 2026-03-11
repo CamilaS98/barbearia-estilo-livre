@@ -1,0 +1,20 @@
+.banner{
+height: 90vh;
+background: url('../img/banner.jpg') center/cover no-repeat;
+
+
+.banner h1{
+font-weight: bold;
+}
+
+.card{
+transition: 0.3s;
+}
+
+.card:hover{
+transform: scale(1.05);
+}
+
+footer{
+font-size: 14px;
+}
